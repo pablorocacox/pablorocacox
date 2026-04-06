@@ -14,7 +14,7 @@
 - 🎓 Estudiante de ingeniería informática 
 - 💡 Interesado en: `IA`, `Data`, `Backend`...
 - 🚀 Actualmente trabajando en: **rockyapp.cc**
-- 🌱 Aprendiendo: **Flutter**
+- 🌱 Aprendiendo: **Dart**
 - 📫 Contacto: **pablorocacox@gmail.com**
 
 ---
@@ -22,7 +22,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,flutter,php,mysql,laravel,idea,selenium,jenkins,docker,raspberrypi,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,mysql,laravel,flutter,idea,selenium,jenkins,docker,raspberrypi,git" />
 </p>
 
 ---
@@ -61,23 +61,24 @@
 ---
 
 ## 📊 GitHub Stats
-<div align = "center">
-  <img src="https://ghchart.rshah.org/pablorocacox" alt="pablorocacox's Github chart" />
-</div>
+
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pablorocacox&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://ghchart.rshah.org/pablorocacox" alt="pablorocacox's Github chart" />
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app//api?username=pablorocacox&show_icons=true&theme=tokyonight" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablorocacox&theme=tokyonight" />
 </p>
 
 ---
-
+<!-- 
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorocacox&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app//api/top-langs/?username=pablorocacox&layout=compact&theme=tokyonight" />
 </p>
 
 ---
+
+-->
 
 ## 🌐 Connect with me
 
